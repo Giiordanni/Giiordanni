@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Giiordanni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Giiordanni/Giiordanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
