@@ -7,7 +7,7 @@
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](
 https://github.com/Giiordanni)
 
-![Giordanni GitHub stats](https://github-readme-stats.vercel.app/api?username=giiordanni&show_icons=true&theme=merko)
+![Giordanni Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Tecnologias
 
