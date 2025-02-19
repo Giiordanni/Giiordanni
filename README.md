@@ -9,7 +9,7 @@ https://github.com/Giiordanni)
 
 ![Giordanni Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## Tecnologias
+## Minhas principais Tecnologias que desenvolvo
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
