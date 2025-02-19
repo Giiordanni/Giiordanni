@@ -54,11 +54,26 @@ Essas plataformas têm sido essenciais para o meu crescimento profissional, perm
 
 ---
 
+## 💡 Soft Skills
+
+Além das habilidades técnicas, acredito que as **soft skills** são essenciais para o sucesso profissional e pessoal. Ao longo da minha jornada, tenho desenvolvido e aprimorado as seguintes competências:
+
+- **Adaptabilidade**: Capacidade de me ajustar rapidamente a novas situações, tecnologias e desafios, mantendo a produtividade e a eficiência.
+- **Curiosidade**: Vontade constante de aprender, explorar novos conceitos e buscar soluções inovadoras para problemas.
+- **Paciência**: Habilidade de lidar com situações desafiadoras e processos demorados, mantendo a calma e o foco.
+- **Trabalho em Equipe**: Espírito colaborativo, sabendo ouvir, contribuir e valorizar as ideias dos outros para alcançar objetivos comuns.
+- **Comunicação**: Capacidade de expressar ideias de forma clara e eficaz, tanto verbalmente quanto por escrito, facilitando a troca de conhecimentos e a resolução de problemas.
+- **Liderança**: Habilidade de inspirar e guiar equipes, delegar tarefas de forma eficiente e motivar os membros a alcançarem seus melhores desempenhos.
+- **Resiliência**: Capacidade de superar obstáculos e se recuperar rapidamente de falhas, mantendo a motivação e o foco nos objetivos.
+- **Empatia**: Capacidade de entender e se conectar com as necessidades e sentimentos dos outros, promovendo um ambiente de trabalho harmonioso e colaborativo.
+
+Essas habilidades têm me ajudado a enfrentar desafios, trabalhar em equipe e contribuir de forma significativa em projetos e ambientes profissionais.
+
+---
+
 ## 📊 Estatísticas do GitHub
 
-![Giordanni GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Giordanni GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
