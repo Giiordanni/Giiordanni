@@ -81,8 +81,10 @@ Plataforma desenvolvida no âmbito do **PIBIC/UEPB**, aplicando:
 
 
 ## 📊 Estatísticas do GitHub
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giiordanni&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giiordanni&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giiordanni&theme=vue)
 
-![Giordanni GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giiordanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
